@@ -12,6 +12,12 @@ body {
 h1 {
   color: #e7d4d4;
   font-size: 28px;
+
+}
+
+h2 {
+  color: #389a7bf3;
+  font-size: 28px;
 }
 
 header {
@@ -94,10 +100,10 @@ main {
   padding: 15px;
 }
 
-#Calculate:hover {
+.Calculate:hover {
   background-color: goldenrod;
 }
-#Calculate {
+.Calculate {
   background-color: gold;
 }
 
@@ -146,4 +152,9 @@ footer {
 
 .colorFont{
     color:#ff3d00; ;
+}
+
+p {
+  color: black;
+  font-size: 18px
 }
