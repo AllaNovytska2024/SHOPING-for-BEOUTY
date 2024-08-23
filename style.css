@@ -130,3 +130,20 @@ footer {
   font-size: 18px;
   font-family: "Times New Roman", Times, bold, serif; 
 }
+
+#totalPrice{
+    font-size: larger;
+    color: #ff3d00;
+    background-color: gold;
+    border-radius: 15px;
+}
+
+#priceForm{
+    background-color: goldenrod;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.colorFont{
+    color:#ff3d00; ;
+}
